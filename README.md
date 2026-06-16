@@ -7,4 +7,4 @@ Basic of python with projects
 
 Basics of data science with multiiple public data set library available on kaggle, like :
 
-titanic | Irish flower | price analytics
+titanic | Iris flower | price analytics raw file
