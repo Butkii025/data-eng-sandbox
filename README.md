@@ -5,4 +5,6 @@ whatever i practice and learn :
 
 Basic of python with projects
 
-basics of data science with multiiple public data set library available on kaggle
+Basics of data science with multiiple public data set library available on kaggle, like :
+
+titanic | Irish flower | price analytics
